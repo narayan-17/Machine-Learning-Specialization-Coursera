@@ -53,7 +53,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/)
       - [Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
-#### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
+#### [Certificate Of Completion](https://www.coursera.org/account/accomplishments/certificate/NJ6NGFPV9XKQ)
 
 <br/>
 
@@ -106,7 +106,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
         - [Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
-#### [Certificate of Completion](https://coursera.org/share/c9a7766b0c6eab27db2e955376d29bf7)        
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/certificate/A9DQ5PEV6ZKR)        
 
 <br/>
 
@@ -139,10 +139,10 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice Quiz : Continuous state spaces](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/eb7aab8b6964336d3d8569f6e9380ca83775969e/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20Quiz%20:%20Continuous%20state%20spaces)
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1)
         - [Deep Q-Learning - Lunar Lander](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
-#### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/certificate/9BE8MQJ48MSF)
 
 
-### [Specialization Certificate](https://coursera.org/share/a15ac6426f90924491a542850700a759)
+### [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/3WJ9KCW3MSHY)
 
 <br/>
 
